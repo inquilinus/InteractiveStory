@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Interactive Story</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_stroty">StrotyActivity</string>
+    <string name="key_name">name</string>
+
+
+
+
+</resources>
